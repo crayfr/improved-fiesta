@@ -1,2 +1,2 @@
 # improved-fiesta
-a simple Python script to let you calculate your schoo-average
+a simple Python script to let you calculate your school average
