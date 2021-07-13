@@ -20,7 +20,7 @@ elif GlobalLevel > 2:
 
 def get_mark(subject):
     mark = None
-    while mark is None or mark not in range(20):
+    while mark is None or mark not in range(21):
         if mark is not None:
             print("Stop lying to me!")
         mark = float(input(f"Insert your {subject} mark here: "))
@@ -44,7 +44,7 @@ messages = {
     range(13, 16): "C'mon you can better than that",
     range(16, 18): "You did a good job mate",
     range(18, 20): "Just reach ou to NASA they'll hire you ",
-    (20): "Yeah could have fooled me",
+    (21): "Yeah could have fooled me",
 }
 for _range, message in messages.items():
     if int(average) in _range:
