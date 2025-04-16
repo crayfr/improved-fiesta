@@ -1,4 +1,4 @@
-# started the 17/10/2020 by Frej R. AKA Lustitiae
+# started on 17/10/2020 by Frej R. AKA Lustitiae
 GlobalLevel = 0
 print("Welcome to mou3adel calculator!")
 print("Please follow the steps below. Have a nice day! Created by: Lustitiae")
